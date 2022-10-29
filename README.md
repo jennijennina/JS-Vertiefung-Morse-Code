@@ -1,28 +1,10 @@
-VORLAGE ## CSS Vertiefung - Lev3_6_Project_css-vertiefung_the-design-shop
+Projekt lev3_5: Morse Code
 
 Eine Übung im SuperCode Bootcamp
 
 ## 🎓 Aufgabe
 
-Aufgabenstellung
-
-```
-TEXT
-
-```
-
-Das heutige Projekt ist ein Online-Shop. Die Tabelle im Classroom enthält alle Produktinformationen.
-
-Verwende für das Layout CSS Flexbox. 😉
-
-## 💡 Assets
-
-```bash
-Font: Karla
-Farbe: #323A45 / #848484
-
-Zusatz: Page ist komplett Responsive
-```
+Es muss eine Funktion entwickelt werden, mit der man einfachen Text in Morsecode übersetzen kann. Das Array ist im Kommentar angegeben.
 
 ## 📸 Screenshots
 
