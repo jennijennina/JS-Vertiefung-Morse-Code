@@ -13,7 +13,7 @@ Es muss eine Funktion entwickelt werden, mit der man einfachen Text in Morsecode
 
 ## 💻 Running
 
-Zur Seite —> - [Lev3_6_Project_css-vertiefung_the-design-shop](https://mukkez.github.io/Bootcamp/tasks/Day_39/Lev3_6_Project_css-vertiefung_the-design-shop/)
+Zur Seite —> - [lev3_5: Morse Code](https://jennijennina.github.io/JS-Vertiefung-Morse-Code//)
 
 <p align="left">
 </p>
